@@ -1,10 +1,4 @@
-# CO-Project-2023
-Group Members Details:-
-
-  Nikhil Kumar - 2022322
-  
-  Niket Agarwal - 2022320
-  
+# CO-Project-2023  
   
 This is the repository for our group project for computer organization course .  
 We have added all the three folders which were given to us. And it contains the main script "Assembler.py" inside the Simple-Assembler folder , the run file inside it also contains the mentioned commands to run . 
